@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Local Python and Rubies
+.*-version
+
+# built binary
+srp6passwd
